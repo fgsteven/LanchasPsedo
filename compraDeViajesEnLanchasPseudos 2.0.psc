@@ -60,7 +60,7 @@ Algoritmo compraDeViajesEnLanchasPseudos
 		
 		
 		Escribir "¿Cuántos pasajes desea adquirir?"
-		capacidadlancha<-15
+		Capacidadlancha<-15
 		Definir pasajes Como Entero
 		Leer pasajes
 		
